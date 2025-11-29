@@ -9,11 +9,11 @@
   <p> 💡 Favorite programming language: <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a> </p>
 
 <h1> 🛠 Technologies I use </h1>
-<img src="https://skillicons.dev/icons?i=js,ts,cs,nodejs,fastify,mongodb,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,nodejs,mongodb,vscode&theme=dark" />
 
 <h1> 📈 My stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=8ntw&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=brnstack&show_icons=true&theme=dark" />
 
 <h1> 💎 My achievements </h1>
-<img src="https://github-profile-trophy.vercel.app/?username=8ntw&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?username=brnstack&theme=onedark" />
 </div>
