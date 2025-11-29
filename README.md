@@ -9,7 +9,7 @@
   <p> 💡 Favorite programming language: <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a> </p>
 
 <h1> 🛠 Technologies I use </h1>
-<img src="https://skillicons.dev/icons?i=js,ts,cs,nodejs,mongodb,vsc&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,nodejs,mongodb&theme=dark" />
 
 <h1> 📈 My stats </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=brnstack&show_icons=true&theme=dark" />
