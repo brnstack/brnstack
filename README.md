@@ -1,10 +1,10 @@
 <div align="center">
-<h1> 👋 Hi, I’m @8ntw </h1>
+<h1> 👋 Hi, I’m @brnstack </h1>
 <p> A 16-year-old high school student learning software engineering 💻 </p>
   
 <h1> ❓ About </h1>
   <p> 🏷 My name is Baran </p>
-  <p> 🖥 Back-end Developer </p>
+  <p> 🖥 Full-Stack Developer </p>
   <p> 🇹🇷 Living in Turkey </p>
   <p> 💡 Favorite programming language: <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a> </p>
 
